@@ -24,3 +24,10 @@ Google_Crawler, Instagram_Crawler, Job_Crawler 세종류의 크롤러가 있습�
 - Job_Crawler
 
 ‘INDEED’, ‘STACKOVERFLOW’ 웹사이트에서 구인구직 정보를 받아 엑셀파일로 저장합니다.
+
+
+- 구현
+
+언어 : python
+
+라이브러리 : BeautifulSoup4 , Selenium
