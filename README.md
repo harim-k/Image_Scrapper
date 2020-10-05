@@ -1,5 +1,8 @@
 # Web_Crawler
-scrap image of web site
+
+
+
+- 설명
 
 Python 라이브러리 BeautifulSoup4와 Selenium을 사용하여 웹사이트의 정보를 크롤링합니다.
 
